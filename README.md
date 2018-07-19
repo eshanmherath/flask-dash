@@ -12,7 +12,7 @@ This allows the users to develop a standard flask app and embed the Dash server 
     workon github_flask_dash_venv
 
 #### install requirements
-	pip install -r "<path to project>/flask-dash/requirement.txt"
+	pip install -r "<path to project>/flask-dash/requirements.txt"
 
 ## Step 1
 
