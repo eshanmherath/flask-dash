@@ -1,24 +1,24 @@
 # flask-dash
 
-##Step 0
+## Step 0
 
-### Make venv
+#### Make venv
 	mkvirtualenv github_flask_dash_venv
 
-### activate (if not already activated)
+#### activate (if not already activated)
     workon github_flask_dash_venv
 
-### install requirements
+#### install requirements
 	pip install -r "<path to project>/flask-dash/requirement.txt"
 
-##Step 1
+## Step 1
 
-### Run app
+#### Run app
 	python run.py
 
-##Step 2
+## Step 2
 
-### Use Interactive Interface
+#### Use Interactive Interface
 	http://127.0.0.1:5000/
 
 
