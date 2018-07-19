@@ -1,5 +1,8 @@
 # flask-dash
 
+Serving Dash server through a Flask App.
+This allows the users to develop a standard flask app and embed the Dash server to the flask app itself.
+
 ## Step 0
 
 #### Make venv
