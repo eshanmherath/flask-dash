@@ -1,3 +1,23 @@
+Skip to content
+Features
+Business
+Explore
+Marketplace
+Pricing
+
+Search
+
+Sign in or Sign up
+1 0 0 eshanMewantha/ml-data-collections
+ Code  Issues 0  Pull requests 0  Projects 0  Insights
+Join GitHub today
+GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+
+ml-data-collections/.gitignore
+d061ecb  on Nov 27, 2017
+@eshanMewantha eshanMewantha adding iris, movies and titanic data sets
+     
+107 lines (85 sloc)  1.16 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -23,7 +43,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -45,7 +64,6 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
-.pytest_cache/
 
 # Translations
 *.mo
@@ -54,7 +72,6 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
 
 # Flask stuff:
 instance/
@@ -87,8 +104,6 @@ celerybeat-schedule
 env/
 venv/
 ENV/
-env.bak/
-venv.bak/
 
 # Spyder project settings
 .spyderproject
@@ -102,3 +117,24 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+*.pyc
+.idea
+*.ipr
+*.iml
+*.*~
+.~lock.*
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.
